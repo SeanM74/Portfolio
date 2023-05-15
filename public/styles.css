@@ -1,10 +1,16 @@
 html {
-  font-weight: 400;
   font-family: "Gill Sans", sans-serif;
   font-size: 1.2em;
   background: #fff8dc;
 }
 
-p {width: auto;}
+p {
+  width: auto;
+  font-weight: 400;
+}
 
-h1, h2 {text-align: center;}
+h1, h2 {
+  font-size: 1.4em;
+  text-align: center;
+  width: auto;
+}
