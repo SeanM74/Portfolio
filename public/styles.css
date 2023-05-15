@@ -14,3 +14,7 @@ h1, h2 {
   text-align: center;
   width: auto;
 }
+
+img {
+  border: 2px solid;
+}
