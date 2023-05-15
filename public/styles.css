@@ -1,8 +1,9 @@
 html {
-  font-weight: 500;
+  font-weight: 400;
   font-family: "Gill Sans", sans-serif;
   font-size: 1.3em;
-  
+  background: #fff8dc;
+  color: rebeccapurple;
   }
         
 a {text-decoration-line: none;}
