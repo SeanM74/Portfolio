@@ -18,3 +18,7 @@ h1, h2 {
 img {
   border: 2px solid;
 }
+
+hr {
+  width: auto;
+}
