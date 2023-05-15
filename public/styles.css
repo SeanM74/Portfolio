@@ -1,12 +1,12 @@
 html {
   font-family: "Gill Sans", sans-serif;
-  font-size: 1.2em;
   background: #fff8dc;
 }
 
 p {
   width: auto;
   font-weight: 400;
+  font-size: 1.2em;
 }
 
 h1, h2 {
