@@ -6,7 +6,7 @@ html {
 p {
   width: auto;
   font-weight: 400;
-  font-size: 1.3em;
+  font-size: 1.2em;
 }
 
 h1, h2 {
@@ -16,8 +16,8 @@ h1, h2 {
 }
 
 img {
-  border: 2px solid;
-  height: 150px;
+  border: 1px solid;
+  height: 200px;
 }
 
 
