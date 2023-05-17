@@ -21,8 +21,8 @@ img {
     width: 300px;
 }
 
-header[a] {
-    padding: 10px;
+footer[a] {
+    padding: 10px 50px 20px;
 }
 
 
