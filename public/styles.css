@@ -21,8 +21,8 @@ img {
     width: 300px;
 }
 
-footer[a] {
-    padding: 20px;
+.info {
+   padding: 10% 0;
 }
 
 
