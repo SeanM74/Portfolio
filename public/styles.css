@@ -1,6 +1,8 @@
-html {
-  font-family: "Gill Sans", sans-serif;
-  background: #fff8dc;
+body {
+  font-family: 'Lora', serif;
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Roboto Mono', monospace;
+  background: #F8F6F4;
 }
 
 p {
