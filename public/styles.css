@@ -17,15 +17,12 @@ h1, h2 {
   width: auto;
 }
 
-main {
-  margin: 5px 20px;
-  padding: 10px;
-}
-
 img {
     border: 1px solid;
     height: 350px;
     width: 350px;
+    margin: 5px 20px;
+    padding: 10px
 }
 
 #info {
