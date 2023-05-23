@@ -17,6 +17,10 @@ h1, h2 {
   width: auto;
 }
 
+main {
+  margin: 5px 20px;
+}
+
 img {
     border: 1px solid;
     height: 350px;
