@@ -17,13 +17,14 @@ h1, h2 {
   width: auto;
 }
 
-img {
-    border: 1px solid;
-    height: 350px;
-    width: 350px;
-    margin: 5px 20px;
-    padding: 10px
+.project {
+  text-align: center;
 }
+
+img {
+    border: 10px solid;
+    width: 40%;
+  }
 
 #info {
    margin: 10px;
