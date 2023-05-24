@@ -21,11 +21,13 @@ h1, h2 {
 
 .project {
   text-align: center;
+  padding: 10px
 }
 
 img {
     border: 10px white solid;
-    width: 60%;
+    width: 350px;
+    height: 350px;
   }
 
 #info {
