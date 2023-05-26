@@ -4,6 +4,8 @@ body {
   font-family: 'Roboto Mono', monospace;
   background: #F8F6F4;
   background-color: #ECF8F9;
+  color: #7E1717;
+  font-size: 1.4rem;
 }
 
 p {
@@ -13,10 +15,8 @@ p {
 }
 
 h1, h2 {
-  font-size: 1.5rem;
   text-transform: uppercase;
   text-align: center;
-  width: auto;
 }
 
 .project {
@@ -26,15 +26,14 @@ h1, h2 {
 
 img {
     border: 10px white solid;
-    width: 350px;
-    height: 350px;
+    width: auto;
+    height: auto;
   }
 
 #info {
    text-align: center;
    margin: 10px;
    padding: 15px;
-  font-size: 1.3rem;
 }
 
 
