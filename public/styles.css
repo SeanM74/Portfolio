@@ -2,27 +2,31 @@ body {
   font-family: 'Lora', serif;
   font-family: 'Open Sans', sans-serif;
   font-family: 'Roboto Mono', monospace;
-  background: #F8F6F4;
   background-color: #ECF8F9;
   color: #7E1717;
-  font-size: 1.4rem;
-  font-weight: 400;
-}
+  font-size: 1.3rem;
+  }
 
 h1, h2 {
   text-transform: uppercase;
   text-align: center;
 }
 
+p {
+  font-weight: 400;
+  
+}
+
 .project {
   text-align: center;
   padding: 10px
+  margin: auto;
 }
 
 img {
     border: 10px white solid;
-    width: auto;
-    height: auto;
+    width: 60%;
+    height: 60%;
   }
 
 #info {
@@ -31,4 +35,6 @@ img {
    padding: 15px;
 }
 
-
+a {
+   color: #7E1717;
+}
