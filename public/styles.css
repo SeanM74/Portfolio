@@ -38,3 +38,12 @@ img {
 a {
    color: #7E1717;
 }
+
+.poster {
+    font-family: 'Caveat', cursive;
+    color: white;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+}
